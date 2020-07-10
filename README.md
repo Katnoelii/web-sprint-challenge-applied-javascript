@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+The DOM, which stands for Document Object Model, is a programming interface that acts as a translator so that programming languages can use nodes and objects to portray style and content.
+
 2. What is an event?
+
+An event is an interaction taken with the webpage
 
 3. What is an event listener?
 
+An event listener is a function that triggers when whatever event you've given it takes place.
+
 4. Why would we convert a NodeList into an Array?
 
+We would convert a NodeList into an Array so we an have access to array methods, such as map.
+
 5. What is a component?
+
+A component is a reusable chunk of code. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
@@ -44,19 +54,19 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 #### Repository Set Up
 
-- [ ] Create a forked copy of this project
-- [ ] Add your team lead as collaborator on Github
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
-- [ ] Create a new branch: `git checkout -b <firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
-- [ ] Push commits: `git push origin <firstName-lastName>`
+- [x] Create a forked copy of this project
+- [x] Add your team lead as collaborator on Github
+- [x] Clone your OWN version of the repository (Not Lambda's by mistake!)
+- [x] Create a new branch: `git checkout -b <firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
+- [x] Push commits: `git push origin <firstName-lastName>`
 
 #### Launching the App
 
-- [ ] Navigate to the root of the project with your command line
-- [ ] Run `npm install` to download the dependencies listed in the `package.json` file
-- [ ] Run `npm start` to compile the project and serve it
-- [ ] Navigate Chrome to the URL indicated in the output of the `npm start` command
+- [x] Navigate to the root of the project with your command line
+- [x] Run `npm install` to download the dependencies listed in the `package.json` file
+- [x] Run `npm start` to compile the project and serve it
+- [x] Navigate Chrome to the URL indicated in the output of the `npm start` command
 
 ### Task 2: Project Requirements
 
